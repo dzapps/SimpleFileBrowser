@@ -1,0 +1,41 @@
+body {
+
+    padding-top:30px;
+    background: #C7EDCC;
+}
+
+.fa {
+    color: #f4645f;
+}
+
+.icon {
+    padding: 20px 0;
+}
+
+.fa-border {
+    border: solid 0.02em rgba(220,220,220,.7);
+}
+
+.icon-section {
+    border: solid 0.02em rgba(220,220,220,.7);
+    border-radius: 0.2em;
+    width: 6em;
+}
+
+.icon-section:hover {
+    background: rgba(180, 230, 240, .7);
+}
+
+.icon-section.selected {
+    background: rgba(180, 210, 225, .9);
+}
+
+.inline {
+    display: inline;
+}
+
+.icon-title {
+    cursor: default;
+}
+
+
